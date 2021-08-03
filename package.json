@@ -17,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liyaxingDev/react-native-getui-statistics.git"
+    "url": "git+https://github.com/liyaxingDev/react-native-getui-statistics.git"
   }
 }
