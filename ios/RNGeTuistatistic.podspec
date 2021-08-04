@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNGeTuistatistic
                    DESC
-  s.homepage     = "https://github.com/lastback/react-native-ali-shenfenyanzheng/tree/master"
+  s.homepage     = "https://github.com/liyaxingDev/react-native-getui-statistics/tree/master"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
