@@ -32,5 +32,7 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
+     implementation 'com.getui:gssdk:3.0.0.0'
+     implementation 'com.getui:gtc:3.1.4.0'
 }
   
